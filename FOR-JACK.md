@@ -78,7 +78,21 @@ For each project page you want to keep, please fill in the blanks:
 
 ---
 
-## 4. Anything Else to Change?
+## 4. Social Media Links
+
+We've added social media icons to the About section of the site, linking to the profiles we found online. **Please review these and let us know if any should be removed or changed:**
+
+- **Instagram:** @jack__jones (https://www.instagram.com/jack__jones/)
+- **TikTok:** @jackjonesfilms (https://www.tiktok.com/@jackjonesfilms)
+- **LinkedIn:** https://www.linkedin.com/in/jack-jones-b73798296/
+- **IMDb:** https://www.imdb.com/name/nm5853194/
+- **Vimeo:** https://vimeo.com/user183702104
+
+If any of these are wrong, outdated, or you'd rather not link to them, just let us know and we'll remove them. If there are other profiles you'd like added, send those too.
+
+---
+
+## 5. Anything Else to Change?
 
 The rest of the site has been rebuilt to match your current Wix site:
 
@@ -86,8 +100,9 @@ The rest of the site has been rebuilt to match your current Wix site:
 - **Director section** — BONES and AL(LY)IEN, titles link to YouTube videos
 - **Videographer section** — Your Vimeo showreel
 - **Photographer section** — Swipeable carousel of all 16 gallery photos (touch-friendly on mobile)
-- **About section** — Your headshot, bio, and email
+- **About section** — Your headshot, bio, email, and social media links
 - **Copyright year** — Now updates automatically each year
+- **SEO** — Search engine optimisation, social sharing tags, sitemap, and structured data all set up
 
 If any of the text, links, or images need updating, now is a good time to let us know — for example:
 - Is the bio still accurate?
@@ -96,7 +111,7 @@ If any of the text, links, or images need updating, now is a good time to let us
 
 ---
 
-## 5. Domain
+## 6. Domain
 
 Your current domain (jackjonesfilm.com) can be pointed to the new site once everything is ready. This won't cause any downtime — we set up the new site first, then switch the domain over.
 
@@ -109,4 +124,5 @@ You don't need to do anything for this step yet. We'll walk you through it when 
 1. **A higher-quality hero image** (optional — the slideshow works fine as-is, but the main hero is low-res)
 2. **A decision on the 6 unreachable project pages** — keep them or leave them out?
 3. If keeping them, **fill in the project details** above
-4. **Any other updates** to text, photos, or links
+4. **Review the social media links** we added — remove any you don't want, add any we missed
+5. **Any other updates** to text, photos, or links
